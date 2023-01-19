@@ -1,4 +1,4 @@
-# kaur_ekam_webdevelopment1
+# kaur_ekam_project1-main
 ToDo: Folder Structure & Typography
 
 Installation: Trying to use several kind of typography in my project.
