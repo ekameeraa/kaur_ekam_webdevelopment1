@@ -34,12 +34,9 @@ p {
     font-weight: 100;
 }
 
-h2,h3 {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-}
-
 h2 {
     font-size: 56px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: 300;
     letter-spacing: 3px;
     background-color: whitesmoke;
@@ -55,4 +52,18 @@ h3 {
     color: chocolate;
     text-align: center;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+}
+
+section {
+    background-image:  url('../images/background\ image.png');
+    background-repeat: no-repeat;
+}
+
+h4 {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-align: center;
+    padding: 50px;
+    box-shadow: 5px 5px 0 none;
+    color: whitesmoke;
 }
